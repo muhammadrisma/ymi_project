@@ -1,0 +1,23 @@
+Install All Dependencies inside package json for each forntend and backend
+
+Tech:
+React + BulmaCSS
+Node + ExpressJS
+Mysql
+
+
+
+1.Change Config base on your setting:
+D:\YMI\backend\config\Database.js
+turn on XAMPP
+set your db
+
+
+2.Frontend:
+
+cd frontend
+npm install
+
+3.Backend
+cd backend
+npm install argon2@0.31.1 connect-session-sequelize@7.1.7 cors@2.8.5 dotenv@16.3.1 express@4.18.2 express-session@1.17.3 mysql2@3.6.1 sequelize@6.33.0
